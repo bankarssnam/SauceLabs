@@ -102,8 +102,7 @@ To run the test scenarios, need to have followings on your machine:
   Go to the folder location where you want to keep local copy of the project
 
 ```bash
-  git clone https://github.com/swatinerkar/selenium-testng-demo-project
-```
+  git clone https://github.com/bankarssnam/SauceLabs```
 
 - Import the project as Maven project in any IDE (Eclipse/IntelliJ)
 
