@@ -71,7 +71,7 @@ Welcome to the Selenium Automation Demo Project! This project serves as hands-on
 
 Here is a screenshot:
 
-![Folder Structure](https://github.com/swatinerkar/selenium-testng-demo-project/blob/develop/images/Selenium-Project-Folder-Structure.png)
+
 ## Framework
 
 Used testNg and POM results in hybrid Framework
@@ -87,7 +87,7 @@ It has following components:
 
 Here is a framework flow diagram
 
-![Framework Flow Diagram](https://github.com/swatinerkar/selenium-testng-demo-project/blob/develop/images/Framework-flowdiagram.png)
+
 
 ## Project Setup
 To run the test scenarios, need to have followings on your machine:
@@ -111,14 +111,14 @@ To run the test scenarios, need to have followings on your machine:
   - right click on testng.xml
   - Run as -> TestNG suite
 
-  ![testng.xml](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Run_Via_testng.xml%20File.png)
+ 
 
 
 - #### To run complete suite via maven
   - Right click on POM.xml file
   - Run as -> Maven test
 
-  ![POM.xml](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Run_Via_pom.xml%20file.png)
+
 
 - #### To run via Run configuration
   - Go to Run on Toolbar
@@ -126,7 +126,7 @@ To run the test scenarios, need to have followings on your machine:
   - Select workplace, and add goals as 'test'
   - Click Apply and Run
 
-  ![Run Configurations](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Run_Via_Run%20Configurations.png)
+ 
 
 
 
@@ -139,15 +139,15 @@ To run the test scenarios, need to have followings on your machine:
 
   #### Report folder
   
-  ![Report Folder](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Reports_Folder.png)
+
 
   #### Execution Report
 
-  ![Execution Report](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Failure_Execution_Report.png)
+
 
   #### Failure Screenshot
 
-  ![Failure Screenshot](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Attached_Failure_Screenshot.png)
+
 
 ## 🚀 About Me
 
